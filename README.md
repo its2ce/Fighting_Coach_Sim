@@ -9,8 +9,8 @@ git push -u origin main
 
 Read Me File
 
-Okay I'm gonna slowly start learning to program here. Orders of business /n
-i. flesh out the idea for the game in text and images /n
+Okay I'm gonna slowly start learning to program here. Orders of business
+i. flesh out the idea for the game in text and images
 ii. create databases for in game assets
 iii. create "game engine" for main loop
 iv. create "game engine" for fighters
